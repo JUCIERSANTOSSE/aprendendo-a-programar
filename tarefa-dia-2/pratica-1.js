@@ -1,6 +1,6 @@
 
-let seuNome
-let seuEmail
-let suaProfissao
-let suaIdade
-let seuLugar
+let seuNome = "Jucier Santos"
+let seuEmail = "juciersantosadm@gmail.com"
+let suaProfissao = "Futuro Programador"
+let suaIdade = 35
+let seuLugar = "Canadá"
